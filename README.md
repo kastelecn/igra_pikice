@@ -1,3 +1,3 @@
-# Tutorial
+# Pikice
 
-This is my tutorial repository.
+Igra za 2 osebi.
